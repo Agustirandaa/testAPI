@@ -1,0 +1,23 @@
+ [
+    {
+        "nama": "Arya",
+        "nim": 1827362387,
+        "jurusan": "Teknik Sipil",
+        "email": "arya@gmail.com",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Agus",
+        "nim": 1827362387,
+        "jurusan": "Teknik Informatika",
+        "email": "ahus@gmail.com",
+        " idDosenWali": 2
+    },
+    {
+        "nama": "randa",
+        "nim": 3433362387,
+        "jurusan": "Teknik Sipil",
+        "email": "arya@gmail.com",
+        "idDosenWali": 2
+    }
+]
